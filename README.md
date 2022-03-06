@@ -12,6 +12,6 @@
 
 ![This is the CSS code after I re-wrote it](assets/imagesv2/after-css.png)
 
-#GitHub pages link-->
+#GitHub pages link--> https://fmartinez59.github.io/code-refactor-biopsy/
 
 
